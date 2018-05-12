@@ -1,0 +1,33 @@
+_repo: Les-mis-rables-Tome-I--13-Fantine_17489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17489'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Epic literature'
+- !lcsh 'Historical fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Ex-convicts -- Fiction'
+title: 'Les misérables Tome I: Fantine'
+url: http://www.gutenberg.org/ebooks/17489
